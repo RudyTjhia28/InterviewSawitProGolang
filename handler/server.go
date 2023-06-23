@@ -1,6 +1,8 @@
 package handler
 
-import "github.com/SawitProRecruitment/UserService/repository"
+import (
+	"interviewsawitprogolang/repository"
+)
 
 type Server struct {
 	Repository repository.RepositoryInterface

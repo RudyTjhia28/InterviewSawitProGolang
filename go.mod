@@ -1,4 +1,4 @@
-module github.com/SawitProRecruitment/UserService
+module interviewsawitprogolang
 
 go 1.19
 
