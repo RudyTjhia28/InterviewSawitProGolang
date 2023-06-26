@@ -1,5 +1,3 @@
-
-
 .PHONY: clean all init generate generate_mocks
 
 all: build/main
